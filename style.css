@@ -1,0 +1,13 @@
+
+background_image:url("Screenshot(1).png")
+*{margin: 0;
+padding: 0;}
+.red{
+    background: red;
+    color: aqua;
+    height: 122px;
+}
+.blue{
+    background-color: blueviolet;
+    color: blanchedalmond;
+}
